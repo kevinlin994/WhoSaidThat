@@ -1,2 +1,4 @@
 # WhoSaidThat
-Passion Project at Metis
+The goal of my project was to create a model that could determine the sex of a speaker using audio of them talking. Starting this project I had no prior experience with manipulating audio data or audio preprocessing workflow. While I looked at other projects in this space, I couldn't find examples of audio preprocessing pipelines working with human speech. I stumbled upon a Kaggle dataset that provided processed audio data, which pointed me towards what inputs I eventually would want to isolate, but it didn’t explain how they were able to extract these features from speech audio. Figuring out how to create such inputs required much research into audio feature engineering: learning what information could feasibly be extracted from the audio, and understanding which of these features would help me accomplish my objective.
+
+This repository contains notebooks that detail my audio-preprocessing and modelling work!
